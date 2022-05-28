@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-Zoom clone using flutter 
+Zoom clone using flutter framework
